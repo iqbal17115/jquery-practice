@@ -1,0 +1,21 @@
+.box1{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(121, 20, 223);
+    margin-top: 10px;
+    /* display: none; */
+}
+.box2{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(20, 216, 223);
+    margin-top: 10px;
+    /* display: none; */
+}
+.box3{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(20, 223, 20);
+    margin-top: 10px;
+    /* display: none; */
+}

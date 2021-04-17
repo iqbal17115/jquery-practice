@@ -1,0 +1,6 @@
+.decendent *{
+   display: block;
+   border: 2px solid red;
+   color: red;
+   padding: 10px;
+}

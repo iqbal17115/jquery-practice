@@ -1,0 +1,6 @@
+.ancestor *{
+    display: block;
+    border: 2px solid rgb(55, 18, 221);
+    padding: 10px;
+    color: rgb(55, 18, 221);
+}
